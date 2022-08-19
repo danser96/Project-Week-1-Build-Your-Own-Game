@@ -12,7 +12,7 @@
 - [Links](#links)
 
 ## Project Description
-The game consists of not letting the ball touch the left or right side of the screen. Use the paddles to hit the ball back.
+Pong consists of not allowing the ball to touch the left or right side of the screen. If you miss the ball on the right side, player B gets a point, if you miss the ball of the left side, player A gets a point. Use the paddles to block the ball from hitting the left and right border
 
 ## Rules
 The game is very simple - follow the following rules:
