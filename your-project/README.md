@@ -8,8 +8,7 @@
 ## Content
 - [Project Description](#project-description)
 - [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
+- [Creation](#creation)
 - [Links](#links)
 
 ## Project Description
