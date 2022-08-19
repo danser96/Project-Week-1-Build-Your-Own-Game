@@ -56,21 +56,21 @@ If (0,0) coordinates are the middle of the screen, how can we make sure the padd
 
 
 Create an object called Ball, customize the speed, shape, color. Remember that the ball will also have a line by default, remove it 
-# Ball
+Ball
 
 
 Set the ball to the center of the screen
 
 Create a pen object to be set as the scoreboard - include what you would like to include in it. Customize it as you did
 for all the other objects
-# Pen
+Pen
 
 
 Define 4 functions in order to move the paddles, use the ycor() turtle module:
 
 
 Make a keyboard binding in order to call the function. When the user presses a button, call the function.
-# Keyboard bindings
+Keyboard bindings
 
 Getting the game started 
 
