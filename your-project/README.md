@@ -23,7 +23,7 @@ The game is very simple - follow the following rules:
 3. Make sure the ball doesn't bounce off any of the walls
 4. If you miss the ball, point for the other team
 
-##Creating PONG:
+#Creating PONG:
 
 
 Make sure you download the following libraries
